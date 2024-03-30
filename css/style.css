@@ -28,6 +28,7 @@ header{
     padding: 20px;
     margin: 20px;
     background-color: blanchedalmond;
+    cursor: pointer;
 }
 
 input{
@@ -46,6 +47,15 @@ p{
     border-radius: 25px;
 }
 
+.wrapper{
+    
+}
+
+.post{
+    text-align: center;
+    padding: 10px;
+    border: 2px blanchedalmond solid;
+}
 
 
 
